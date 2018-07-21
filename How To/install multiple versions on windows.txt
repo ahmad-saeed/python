@@ -1,0 +1,15 @@
+- install the two versions 
+- Add them to the "Path" environment variable
+- Make a new variable with"
+	Name "PY-PYTHON"
+	Value "3"
+- access them by py -2 and py -3 for eg.
+-----------------
+For Sublime
+- install the package control
+- install packageSourceViewer
+- access the python package and replace every "python" with "py"
+- access the different versions using:
+	#! py -2
+	#! py -3
+before your code
